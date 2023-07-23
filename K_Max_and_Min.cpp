@@ -230,5 +230,5 @@ void solve()
 {
     ll a, b, c;
     cin >> a >> b >> c;
-    cout << min({a, b, c}) << " " << max({a, b, c}) << endl;
+    cout << min({a, b, c}) << " " << max({a, b, c}) << nl;
 }
